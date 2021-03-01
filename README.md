@@ -30,6 +30,6 @@ The final rankings would be based on your private score which will be published 
 
 # Sample Insights
 
-![Individual Categorical Feature Distribution](Individual Categorical Feature Distribution.png)
+![Individual Categorical Feature Distribution](https://github.com/AnilBetta/AV-JOB-A-THON/blob/main/Sample%20Insights/Individual%20Categorical%20Feature%20Distribution.PNG)
 
-![Interaction Feature Distribution](Interaction Feature Distribution.png)
+![Interaction Feature Distribution](https://github.com/AnilBetta/AV-JOB-A-THON/blob/main/Sample%20Insights/Interaction%20Feature%20Distribution.PNG)
