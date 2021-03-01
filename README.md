@@ -27,3 +27,9 @@ The final rankings would be based on your private score which will be published 
 
 * **[Public LB](https://datahack.analyticsvidhya.com/contest/job-a-thon/#LeaderBoard)** : **3rd Rank**
 * **[Private LB](https://datahack.analyticsvidhya.com/contest/job-a-thon/#LeaderBoard)** : **2nd Rank**
+
+# Sample Insights
+
+![Individual Categorical Feature Distribution](Individual Categorical Feature Distribution.png)
+
+![Interaction Feature Distribution](Interaction Feature Distribution.png)
